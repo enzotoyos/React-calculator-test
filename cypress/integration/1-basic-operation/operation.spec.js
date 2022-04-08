@@ -1,4 +1,4 @@
-describe("Calculator", () => {
+describe("Basic operations Testing", () => {
   it("Test addition", () => {
     cy.visit("http://localhost:3000");
     cy.contains("1").click();
