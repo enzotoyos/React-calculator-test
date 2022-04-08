@@ -1,3 +1,5 @@
+[![CI Cypress](https://github.com/enzotoyos/React-calculator-test/actions/workflows/nodeci.yml/badge.svg)](https://github.com/enzotoyos/React-calculator-test/actions/workflows/nodeci.yml)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
